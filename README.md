@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @classicpages
-- 👀 I’m interested in challenging website design projects that will help me improve upon my skills, internship programs and or bootcamp(s). I am very passionate about building very cool website and I am willing to learn more.
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 👀 I’m interested in challenging website design projects that will help me improve upon my skills, internship programs and bootcamp(s). I am very passionate about building very cool website and I am willing to learn more.
+- 🌱 I’m currently learning HTML, CSS, Javascript and Vue
 - 💞️ I’m looking to collaborate on website design projects 
-- 📫 How to reach me on patrickafriyiewilson12345@gmail.com and 0257732425
+- 📫 How to reach me on patrickafriyiewilson12345@gmail.com OR +233257732425
 
 <!---
 classicpages/classicpages is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
